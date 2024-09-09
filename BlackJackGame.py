@@ -11,9 +11,9 @@ import os
 from PIL import Image, ImageTk  # Importing from PIL (Pillow)
 
 # Paths to the directories
-cards_path = "Blackjack\\cards"
-chips_path = "Blackjack\\chips"
-save_file_path = "Blackjack\\save_data.txt"
+cards_path = "C:\\Users\\USER\\Downloads\\Blackjack\\cards"
+chips_path = "C:\\Users\\USER\\Downloads\\Blackjack\\chips"
+save_file_path = "C:\\Users\\USER\\Downloads\\Blackjack\\save_data.txt"
 
 # Global variables
 bet = 0
