@@ -4,6 +4,8 @@ This is your below-average blackjack game made by two mid developers! Introducin
 
 All card assets are from: https://github.com/hayeah/playing-cards-assets
 
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge">
