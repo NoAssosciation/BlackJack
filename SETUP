@@ -1,0 +1,13 @@
+For setting up the game all you have to do is change the directories from 
+
+cards_path = "C:\\Users\\USER\\Downloads\\Blackjack\\cards"
+chips_path = "C:\\Users\\USER\\Downloads\\Blackjack\\chips"
+save_file_path = "C:\\Users\\USER\\Downloads\\Blackjack\\save_data.txt"
+
+to whatever your username is. 
+
+ex: if your username is "Tim" it would be
+
+cards_path = "C:\\Users\\Tim\\Downloads\\Blackjack\\cards"
+chips_path = "C:\\Users\\Tim\\Downloads\\Blackjack\\chips"
+save_file_path = "C:\\Users\\Tim\\Downloads\\Blackjack\\save_data.txt"
