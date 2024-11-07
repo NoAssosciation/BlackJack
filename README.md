@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Blackjack</h1><br>
 
-This is your below-average buggy blackjack game made by two mid developers! Introducing blackjack by *NoAssosciation*. Everything used in this repository can be reused or reposted no credited needed.
+Super buggy and shity made while not in a good state of mind if ya know what I mean. 
 
 All card assets are from: https://github.com/hayeah/playing-cards-assets
 
